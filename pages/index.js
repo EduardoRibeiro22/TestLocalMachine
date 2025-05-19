@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>Olá Ariane! Cade a minha foto?</h1>
+    return <h1>Quero comer a sua bucetinha apertada minha gostosa!</h1>
 }
 
 export default Home;
